@@ -1,0 +1,23 @@
+{
+  "name": "kstracker",
+  "version": "1.0.0",
+  "description": "Track Kickstarter (and other crowd-funding) projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pileon/kstracker.git"
+  },
+  "keywords": [
+    "kickstarter",
+    "crowdfunding"
+  ],
+  "author": "Joachim Pileborg <arrow@pileborg.se>",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/pileon/kstracker/issues"
+  },
+  "homepage": "https://github.com/pileon/kstracker"
+}
