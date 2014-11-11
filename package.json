@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/pileon/kstracker/issues"
   },
-  "homepage": "https://github.com/pileon/kstracker"
+  "homepage": "https://github.com/pileon/kstracker",
+  "dependencies": {
+    "express": "^4.10.2"
+  }
 }
