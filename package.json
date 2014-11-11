@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/pileon/kstracker",
   "dependencies": {
-    "express": "^4.10.2"
+    "express": "^4.10.2",
+    "swig": "^1.4.2"
   }
 }
